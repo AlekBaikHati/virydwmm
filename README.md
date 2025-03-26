@@ -1,2 +1,1 @@
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/AlekBaikHati/kulsdvv&branch=main&name=autocaption&env%5BAPI_TOKEN%5D=your_api_token)
-
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/AlekBaikHati/virydwmm&branch=main&name=MARGEV2&env%5BBOT_TOKEN%5D=0&env%5BAPI_ID%5D=0&env%5BAPI_HASH%5D=0&env%5BLEBAR%5D=3000&env%5BTINGGI%5D=1500&env%5BDEFAULT_WATERMARK%5D=0&env%5BCHANNEL_ID%5D=-1002320765373)
