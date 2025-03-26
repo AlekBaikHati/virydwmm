@@ -4,3 +4,4 @@ Pillow
 telethon
 pyrogram
 colorama
+nest_asyncio
