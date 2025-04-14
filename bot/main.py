@@ -233,7 +233,7 @@ def merge_photos(photo_paths, output_path, watermark=DEFAULT_WATERMARK):
 
     # Menggunakan font dengan ukuran yang lebih besar
     try:
-        font = ImageFont.truetype("arial.ttf", 60)  # Ganti ukuran font sesuai kebutuhan
+        font = ImageFont.truetype("arial.ttf", 160)  # Ganti ukuran font sesuai kebutuhan
     except IOError:
         font = ImageFont.load_default()
 
